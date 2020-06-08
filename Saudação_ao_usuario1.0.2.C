@@ -1,6 +1,6 @@
-include <stdio.h>
-include <stdlib.h>
-include <locale.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
 int x;
 
 int main(){
